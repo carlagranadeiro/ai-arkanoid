@@ -1,5 +1,4 @@
-# AI BREAKOUT+ — Accessible Edition  (v2)
-
+# AI BREAKOUT+ — Accessible Edition  
 > A fully accessible Arkanoid/Breakout game controlled by **head movement** and **eye blinks**, designed for users with motor disabilities who can only move their head and eyes. Includes colorblind-safe palettes and AI4VET / EU branding.
 
 ---
