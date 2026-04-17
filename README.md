@@ -5,30 +5,19 @@
 
 ## Table of Contents
 
-1. [What Changed in v2](#what-changed-in-v2)
-2. [Project Overview](#project-overview)
-3. [Features](#features)
-4. [How to Play](#how-to-play)
-5. [Controls](#controls)
-6. [Accessibility](#accessibility)
-7. [Colorblind Modes](#colorblind-modes)
-8. [Power-Ups](#power-ups)
-9. [Difficulty Levels](#difficulty-levels)
-10. [File Structure](#file-structure)
-11. [Setup & Requirements](#setup--requirements)
-12. [Technical Notes](#technical-notes)
-13. [Credits & Funding](#credits--funding)
 
----
-
-| Issue | Fix |
-|---|---|
-| Head tracking not following movement | Replaced delta-based approach with **absolute nose-X position** mapped directly to paddle — smooth and reliable |
-| Blink not detected | Replaced single-threshold with **hysteresis state machine** (close-threshold + open-threshold + rising-edge detection) |
-| "Level 2" shown at start | Corrected — always starts at **Level 1** |
-| AI4VET logo (SVG placeholder) | Replaced with **real uploaded logo** (base64 embedded) |
-| CE logo missing | Added **real Co-funded by EU logo** (base64 embedded) |
-| Partner flags | Correct flag emojis: 🇵🇹 Portugal · 🇷🇸 Serbia · 🇸🇰 Slovakia |
+[Project Overview](#project-overview)
+[Features](#features)
+[How to Play](#how-to-play)
+[Controls](#controls)
+[Accessibility](#accessibility)
+[Colorblind Modes](#colorblind-modes)
+[Power-Ups](#power-ups)
+[Difficulty Levels](#difficulty-levels)
+[File Structure](#file-structure)
+[Setup & Requirements](#setup--requirements)
+[Technical Notes](#technical-notes)
+[Credits & Funding](#credits--funding)
 
 ---
 
