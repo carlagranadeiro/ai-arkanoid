@@ -21,8 +21,6 @@
 
 ---
 
-## What Changed in v2
-
 | Issue | Fix |
 |---|---|
 | Head tracking not following movement | Replaced delta-based approach with **absolute nose-X position** mapped directly to paddle — smooth and reliable |
